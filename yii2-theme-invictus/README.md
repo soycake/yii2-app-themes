@@ -1,4 +1,6 @@
 # Invictus Template (Yii 2 Application)
+Support Yii2 Advanced and Basic Template Version v2.0.8.01 only.
+
 ![Yii2 Advanced Template](./_images/2016-05-10_18-08-29.png)
 
 # References
